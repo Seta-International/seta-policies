@@ -14,11 +14,9 @@ Provide a general summary of your changes in the Title above
 
 ## The influence on other feature (optional)
 
-This text you see here is \*actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+This text you see here
 
-## Screen (optional):
+## Screenshot (optional):
 
 ## Checklist
 Go over all the following points, and put an x in all the boxes that apply.
